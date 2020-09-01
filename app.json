@@ -1,0 +1,12 @@
+{
+  "name": "react-native-news-app",
+  "displayName": "react-native-news-app",
+  "expo": {
+    "name": "react-native-news-app",
+    "slug": "react-native-news-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
